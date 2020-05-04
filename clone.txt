@@ -1,0 +1,17 @@
+git clone https://github.com/jkries/mybot.git
+
+http://127.0.0.1/
+tai
+localhost
+
+
+python train.py
+
+python chat.py
+
+botConfig.py
+Säädöt
+
+python trainlog.py
+Opetetaan keskustelun avulla
+
