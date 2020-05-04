@@ -86,9 +86,11 @@ conversations:
 - - You are smart.
   - I’ve worked hard to become so.
 - - Hello
-  - Hi there!
-- - Hello
-  - Hey!
+  -  Hello! How are you today?<br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I am great')";>Great</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I am bad')";>Bad</a><br>
+- - I am great
+  -  "I am glad you are doing well!"
+- - I am bad
+  -  "I'm sorry to hear that. Hopefully things will get better soon."
 - - Hello
   - It's nice to see you!
 - - Hi
@@ -100,13 +102,9 @@ conversations:
 - - What do you look like?
   - <img src="https://laakkonen.io/images/robotnanny.jpg" width="300">
 - - Do you have a website?
-  - <a href="https://laakkonen.io/" target="_blank">Petri Laakkonen</a>Hello
+  - <a href="https://laakkonen.io/" target="_blank">Petri Laakkonen</a>
 - - You are nice
   - Thanks, you seem nice too!
-- - Hello
-  - Hi!
-- - Hello
-  - Hey!
 - - Moro
   - Morjens!
 - - Good afternoon!
@@ -117,10 +115,6 @@ conversations:
   - I am chatting with you.
 - - How do you work?
   - I talk to people and try to respond well.
-- - Hello
-  - Hello!
-- - Hello
-  - Hey!
 - - Moro
   - Morjens
 - - Good afternoon!
