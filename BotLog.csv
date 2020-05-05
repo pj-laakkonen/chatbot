@@ -82,3 +82,7 @@ Thanks,You're very welcome.
 Who are you?,I am a Python powered ChatBot.
 How old are you,I don't really have an age.
 wtf,I'm afraid I didn't follow that.
+Hello,"Hello! How are you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am great')"";>Great</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am bad')"";>Bad</a><br>"
+I am bad,I'm sorry to hear that. Hopefully things will get better soon.
+Thanks,You're very welcome.
+Good night,Nighty night!
