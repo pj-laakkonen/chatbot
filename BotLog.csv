@@ -63,3 +63,22 @@ Hello,Hello to you!
 Hello,Hello to you!
 Hello,"Hello! How are you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am great')"";>Great</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am bad')"";>Bad</a><br>"
 I am bad,I'm sorry to hear that. Hopefully things will get better soon.
+Hello,It's nice to see you!
+Moro,Morjens
+Heippa,I don't have a response for that.<br><br>You can try this from my friend Google: <a target='_blank' href='https://www.google.com/search?q=Heippa'>Heippa</a>
+How old are you,Age is just a number.
+Who are you,"Oh, I don't have a name."
+Hello,Hello.
+Moi,Moro
+Hello,Hello.
+Moi,Moro
+I want to commit suicide,"MIELI Mental Health Finland is available 24/7. You can call 09 2525 0111 (Finnish) / 09 2525 0112 (Swedish) / 09 2525 0113 (English) or visit <a href=""https://mieli.fi"" target=""_blank"">https://mieli.fi</a>"
+Do you ever fart?,I don't have the hardware for that.
+Hello,"Hello! How are you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am great')"";>Great</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am bad')"";>Bad</a><br>"
+I am great,I am glad you are doing well!
+Moro,Morjens!
+What' your name?,Keke
+Thanks,You're very welcome.
+Who are you?,I am a Python powered ChatBot.
+How old are you,I don't really have an age.
+wtf,I'm afraid I didn't follow that.
