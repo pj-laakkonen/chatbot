@@ -86,3 +86,7 @@ Hello,"Hello! How are you today?<br><a class=""chatSuggest"" onclick=""$(this).h
 I am bad,I'm sorry to hear that. Hopefully things will get better soon.
 Thanks,You're very welcome.
 Good night,Nighty night!
+Hello,"Hello! How are you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am great')"";>Great</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am bad')"";>Bad</a><br>"
+I am bad,I'm sorry to hear that. Hopefully things will get better soon.
+Thanks,You're very welcome.
+BYe,Bye.
