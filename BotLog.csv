@@ -103,3 +103,5 @@ Hello,Hi!
 Hello,Hi!
 Hello,Hello to you!
 Hello,It's nice to see you!
+Hello,"Hello! How are you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am great')"";>Great</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('I am bad')"";>Bad</a><br>"
+I am great,I am glad you are doing well!
